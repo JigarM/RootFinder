@@ -1,0 +1,3 @@
+[submodule "ios/jailbroken"]
+	path = ios/jailbroken
+	url = https://github.com/sat2eesh/ios-jailBroken
