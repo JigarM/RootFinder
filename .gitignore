@@ -8,3 +8,9 @@ build
 /android/build.properties
 
 /.settings/
+
+/.project
+
+/android/.DS_Store
+
+/ios/rootfinder.xcodeproj/project.xcworkspace/xcuserdata/mattapperson.xcuserdatad/UserInterfaceState.xcuserstate
